@@ -8,4 +8,4 @@ Python · C++ · JavaScript ·
 FastAPI · Flask · React ·
 PyTorch · TensorFlow · LangChain
 
-Portfolio → https://vamsipullabhotla.vercel.app/
+Portfolio → https://vamsipullabhotla.me/
